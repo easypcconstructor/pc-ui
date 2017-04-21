@@ -5,7 +5,7 @@
   "author": "Max Abrosimov <maximabrosimovkh@gmail.com> (http://github.com/MaxArbosimov)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MaxAbrosimov/pc-ui"
+    "url": "https://github.com/easypcconstructor/pc-ui"
   },
   "dependencies": {
     "react": "^15.5.4",
