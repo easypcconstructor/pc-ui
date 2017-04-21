@@ -1,7 +1,7 @@
 {
   "name": "pc-ui",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "author": "Max Abrosimov <maximabrosimovkh@gmail.com> (http://github.com/MaxArbosimov)",
   "repository": {
     "type": "git",
